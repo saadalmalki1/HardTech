@@ -21,10 +21,6 @@ Requirements:
 5. Open:
    http://localhost/hardtech_shop/
 
-IMPORTANT:
-The supplied SQL database contains the table structures but no product/category/customer data.
-The website is therefore designed to show an empty-state message until you add data.
-
 Main database tables used by this simple version:
 - categories
 - items
@@ -32,4 +28,7 @@ Main database tables used by this simple version:
 
 The cart uses PHP sessions so JavaScript is not required.
 
-No JavaScript is used.
+No JS is used.
+
+### Credits
+- Saad Almalki

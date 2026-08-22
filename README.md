@@ -1,4 +1,4 @@
-HARDTECH - SIMPLE PHP/CSS WEBSITE
+# HARDTECH - SIMPLE PHP/CSS WEBSITE
 
 Requirements:
 - PHP 5.5+ (works with newer PHP versions too)
